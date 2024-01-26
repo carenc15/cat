@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAKB6qgAAAAAAAKqjAAAAAAAAqqoAAAoAAKB6qqqqCgAAAACgqqoAAAAAAKCqCgAAAAAAoKqqAAAAAACgqqoKAAAAAKAAAAoAAAAAqgAAAAAAAKAKAAAAAAAAqgAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Purple cat"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAAAAAAAP8PAAAAAAAA/g8AAAAAAOf+DwAAAAAA7v4PAAAAAADg/g8AAAAAAAD+DwAAAAAAAP8PAAAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Cat food"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
